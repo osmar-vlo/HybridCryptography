@@ -1,5 +1,5 @@
 # HybridCryptography
-Bienvenido al repositorio HybridCryptography. Aquí encontrarás ejemplos y utilidades relacionadas con la criptografía híbrida, una técnica que combina la criptografía simétrica y asimétrica. Esta combinación proporciona los siguientes servicios:
+Este repositorio alberga un proyecto Java dedicado a la implementación de criptografía híbrida, una técnica que combina la criptografía simétrica y asimétrica. El objetivo principal es proporcionar seguridad en la transmisión de datos, ofreciendo los siguientes servicios:
 
 Integridad: Garantiza que la información no ha sido alterada ni modificada de manera no autorizada durante su transmisión.
 
