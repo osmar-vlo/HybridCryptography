@@ -11,8 +11,6 @@ public class HybridCryptography {
             Emisor.generarRSA();
             Receptor.generarRSA();
             
-            Receptor.getModulus();
-            
             String iv = AES.generarIV();
             String clave = AES.generarClaveAES();
             
