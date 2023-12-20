@@ -9,6 +9,4 @@ Autenticidad: Verifica la identidad de las partes involucradas, asegurando que l
 
 No Repudio: Impide que una entidad niegue la autoría de una acción realizada o la recepción de una comunicación, proporcionando un registro inalterable de las transacciones.
 
-Explora las implementaciones y ejemplos prácticos en el repositorio para comprender mejor cómo la criptografía híbrida puede fortalecer la seguridad en tus aplicaciones y comunicaciones.
-
 ¡Gracias por explorar HybridCryptography! Si tienes preguntas, sugerencias o contribuciones, no dudes en ponerte en contacto o abrir un issue.
